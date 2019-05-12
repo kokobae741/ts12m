@@ -1,0 +1,16 @@
+# JOKISOUNDSYSTEM (Script TELKOMSEL)
+#
+# hostname
+# hostname:80
+# hostname:443
+
+#
+#
+
+#phreakers-madhureh.servecounterstrike.com/cgi-bin/cgiproxy/nph-proxy.pl/0/http/
+#vancahya.pointdns.xyz
+
+#telkom.kandanghosting.com
+#
+
+vancahya.pointdns.xyz:443
